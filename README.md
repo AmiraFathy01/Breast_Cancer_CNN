@@ -18,7 +18,7 @@ classes: normal, benign, and malignant images.\
  
  421  images :  malignant
 
-![image](https://github.com/AmiraFathy01/breast_cancer_cnn/assets/79209830/2213e24b-6f82-44f4-b04c-11b017bf11d6)
+![image](https://github.com/AmiraFathy01/Breast_Cancer_CNN/assets/79209830/2213e24b-6f82-44f4-b04c-11b017bf11d6)
 
 # Training result 
 
